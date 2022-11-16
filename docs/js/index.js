@@ -42,7 +42,7 @@ const count ={
      
      
      
-      //Q10
+      //Q10&Q11
      
       var Employee =(function(){
           let name ="Jarso"
