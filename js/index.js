@@ -17,9 +17,8 @@ const count ={
      console.log(count.counter  )
      
      
-     // Q7) for given question 6, counter is the free variable, 
-     //but my solution does't has free varialble since I define counter as proporety of the count Object to solve
-     // the question, 
+     // Q7) for given question 6, counter is the free variable.
+    
      
      
      // Q8)
